@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yohann.devweb@gmail.com
+	name = yohann
